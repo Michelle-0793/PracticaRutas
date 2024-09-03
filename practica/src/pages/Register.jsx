@@ -1,13 +1,17 @@
 import React from "react";
 
+import Header from "../components/Header";
+import Navbar from "../components/Navbar";
+import Footer from "../components/Footer";
 import FormRegister from "../components/FormRegister";
 
 function Register() {
     return (
         <div>
-            
-        <h2>Registrarse</h2>
+        <Header />
+        <Navbar /> <br /><br /> <br /> 
         <FormRegister />
+        <Footer />
 
         </div>
     )

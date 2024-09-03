@@ -6,10 +6,11 @@ import '../styles/Navbar.css'; // Archivo css
 function Navbar() {
   return (
     <nav className="nav">
-      <Link to="/" className="nav-link">Home</Link>
-      <Link to="/login" className="nav-link">Login</Link>
-      <Link to="/register" className="nav-link">Register</Link>
-      <Link to="/contact" className="nav-link">Contact</Link>
+      <Link to="/home" className="nav-link">Home</Link>
+      <Link to="/login" className="nav-link">Iniciar Sesión</Link>
+      <Link to="/register" className="nav-link">Registrarse</Link>
+      <Link to="/contact" className="nav-link">Contacto</Link>
+      
     </nav>
   );
 }

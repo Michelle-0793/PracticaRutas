@@ -1,0 +1,24 @@
+body{
+    margin: 0;
+}
+
+.logo{
+    width: auto;
+    height: 105px;
+    margin-left: 40px;
+}
+header{
+    display: grid;
+    grid-template-columns: 200px 800px;
+    width: auto;
+    height: 150px;
+    background-color: rgba(5, 20, 0, 0.918);
+    align-items: center;
+}
+.preservación{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    font-style: italic;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+}
