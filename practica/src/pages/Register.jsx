@@ -6,7 +6,7 @@ function Register() {
     return (
         <div>
             
-        <h2>Register</h2>
+        <h2>Registrarse</h2>
         <FormRegister />
 
         </div>
