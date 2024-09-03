@@ -1,0 +1,1 @@
+//Componente de la sección de Acerca de

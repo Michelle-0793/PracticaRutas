@@ -1,0 +1,1 @@
+//Componente del contenido de la página de inicio.
